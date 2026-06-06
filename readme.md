@@ -14,7 +14,7 @@
 
 Final-year Computer Science undergraduate with **12 months of industry experience** as a Software Engineering Intern at FUTURA Solutions, where I built and maintained frontend and backend web applications in a professional team environment. Now specializing in **DevOps and cloud-native infrastructure** - I design and ship end-to-end systems spanning container orchestration, automated CI/CD pipelines, cloud infrastructure automation, and centralized observability platforms.
 
-- 🎓 BSc (Hons) Computer Science · Robert Gordon University (via IIT)
+- 🎓 BSc (Hons) Computer Science · University of westminster (via IIT)
 - 💼 Ex Software Engineering Intern · FUTURA Solutions · 12 months
 - ☁️ AWS Cloud Practitioner · In Progress
 - 🌍 Based in Colombo, Sri Lanka
