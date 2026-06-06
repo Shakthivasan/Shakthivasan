@@ -12,7 +12,7 @@
 
 ## About Me
 
-Final-year Computer Science undergraduate with **12 months of industry experience** as a Software Engineering Intern at FUTURA Solutions, where I built and maintained frontend and backend web applications in a professional team environment. Now specializing in **DevOps and cloud-native infrastructure** — I design and ship end-to-end systems spanning container orchestration, automated CI/CD pipelines, cloud infrastructure automation, and centralized observability platforms.
+Final-year Computer Science undergraduate with **12 months of industry experience** as a Software Engineering Intern at FUTURA Solutions, where I built and maintained frontend and backend web applications in a professional team environment. Now specializing in **DevOps and cloud-native infrastructure** - I design and ship end-to-end systems spanning container orchestration, automated CI/CD pipelines, cloud infrastructure automation, and centralized observability platforms.
 
 - 🎓 BSc (Hons) Computer Science · Robert Gordon University (via IIT)
 - 💼 Ex Software Engineering Intern · FUTURA Solutions · 12 months
@@ -78,16 +78,16 @@ Final-year Computer Science undergraduate with **12 months of industry experienc
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthivasan&theme=tokyonight&show_icons=true" alt="Shakthivasan streak"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Shakthivasan&show_icons=true&theme=tokyonight" alt="Shakthivasan stats"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthivasan&theme=gotham&show_icons=true" alt="Shakthivasan"/>
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Shakthivasan&show_icons=true&theme=gotham"/>
 </p>
+
 
 ---
 
 <div align="center">
-  <sub>Building scalable, automated, and observable cloud infrastructure — one pipeline at a time</sub>
+  <sub>Building scalable, automated, and observable cloud infrastructure - one pipeline at a time</sub>
 </div>
