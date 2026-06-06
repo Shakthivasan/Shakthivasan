@@ -79,6 +79,93 @@ Final-year Computer Science undergraduate with **12 months of industry experienc
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Shakthivasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthivasan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shakthivasan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakthivasan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> ⚙️ **Setup required** — Follow the steps below to enable the snake animation on your profile.
+
+<!-- Once set up, replace the line below with your actual snake SVG path -->
+<!--
+<p align="center">
+  <img src="https://github.com/Shakthivasan/Shakthivasan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+-->
+
+**To enable the snake:** Create a file at `.github/workflows/snake.yml` in your profile repo with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Shakthivasan
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then uncomment the snake image block above once the workflow runs once. ✅
+
+---
+
+## 📌 Pinned Repositories
+
+> 💡 **Pin your 4 DevOps projects** directly on GitHub:
+> Go to your profile → click **"Customize your pins"** → select these repos:
+
+| Repo | Description |
+|------|-------------|
+| `aws-ecs-cicd-pipeline` | End-to-End CI/CD with GitHub Actions, Docker & AWS ECS |
+| `aws-eks-helm-deployment` | Kubernetes Auto-Scaling Platform on AWS EKS |
+| `elk-stack-log-monitoring` | Centralized ELK Log Monitoring & Alerting on Docker |
+| `devops-project4-elk` | AWS Infrastructure Automation with Bash & AWS CLI |
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
